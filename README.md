@@ -1,2 +1,5 @@
-# git_github_1423-solstice-notes-7f2c
-Solstice program office meeting notes (scratch)
+# Solstice program office notes
+
+Weekly meeting minutes and parking-lot items for the platform program office.
+
+Nothing in this repository is a source of truth for the work index.
